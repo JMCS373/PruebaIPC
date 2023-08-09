@@ -1,0 +1,17 @@
+GitHub
+
+añadir direccion de carpeta
+
+git init = iniciar un repositorio
+
+git add . = selecciona todos los archivos de la carpeta
+git add . ALGO = secciona solo el archivo llamado ALGO
+git config --global user.name "NOMBRE"= para configurar el nombre
+git config --global user.email "CORREO"= para configurar el correo electronico
+git commit -m "NOMBRE" = selecciona el archivo para subir a GIT
+cd= moverse entre directorio
+ls= alistar los archivos entre el directorio
+
+git: 'add.' is not a git command. See 'git --help'.
+
+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
